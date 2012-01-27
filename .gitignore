@@ -1,0 +1,14 @@
+.DS_Store
+.buildpath
+.project
+.settings
+.settings/org.eclipse.php.core.prefs
+.htaccess
+.buildpath
+.project
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
